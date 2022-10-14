@@ -1,7 +1,3 @@
-.center-text {
-  text-align: center;
-}
-
 .profile {
 
 }
@@ -10,4 +6,12 @@
   width: 150px;
   height: auto;
   margin: auto;
+}
+
+.port {
+
+}
+
+.port-item {
+  width: 300px;
 }
