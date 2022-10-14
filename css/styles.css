@@ -17,6 +17,12 @@
   margin-bottom: 2%;
 }
 
+.fill {
+  width: 150px;
+  height: 150px;
+  object-fit: fill;
+}
+
 .port-text {
   font-weight: bold;
 }
